@@ -4,8 +4,8 @@
  * and set it as wallpaper
  *
  *
- * by Daniel @ Github :)
- * https://github.com/Chon33/nasa-to-wall
+ * by LaDaniWapa @ Github :)
+ * https://github.com/LaDaniWapa/nasa-to-wall
 */
 
 
